@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Abdelfatah Alhoot currently a 3rd year Software engineering student in university👋
 
 
 # 💻 Tech Stack:
