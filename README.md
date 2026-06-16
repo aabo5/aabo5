@@ -1,66 +1,15 @@
-# 👋 Hi, I'm Abdelfatah Alhoot
-🎓 3rd Year Software Engineering Student  
-💻 Passionate about building useful software and exploring Machine Learning  
-🚀 Currently focused on improving my skills and building portfolio projects that actually matter
+# 💫 About Me:
+# 👋 Hi, I'm Abdelfatah Alhoot<br><br>🎓 3rd Year Software Engineering Student  <br>💻 Passionate about building useful software and exploring Machine Learning  <br>🚀 Currently focused on improving my programming skills and building strong projects for my portfolio<br><br>---<br><br>## 🧠 About Me<br><br>- 🔭 Currently working on **software and machine learning projects**<br>- 🌱 Learning **Machine Learning, Data Structures, and System Design**<br>- 💡 Interested in **AI, backend systems, and automation**<br>- 📚 Always trying to build projects that solve real problems<br>- ⚡ Fun fact: I enjoy turning random ideas into working code<br><br>---<br><br># 💻 Tech Stack<br><br>![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br><br>### Databases<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)<br><br>### Data Science & ML<br>![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)<br>![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br><br>### Design Tools<br>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)<br>![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)<br><br>---<br><br># 🚀 Current Goals<br><br>- Build **strong Machine Learning portfolio projects**<br>- Contribute to **open source**<br>- Improve **system design and backend development**<br>- Create projects that are **actually useful**<br><br>---<br><br># 📊 GitHub Stats<br><br>![](https://github-readme-stats.vercel.app/api?username=aabo5&theme=dark&hide_border=false)<br><br>![](https://nirzak-streak-stats.vercel.app/?user=aabo5&theme=dark&hide_border=false)<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabo5&theme=dark&layout=compact)<br><br>---<br><br># 📫 Connect With Me<br><br>- GitHub: https://github.com/aabo5<br><br>---<br><br>⭐ *Always building, always learning.*<br><br>
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aabo5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aabo5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aabo5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aabo5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 About Me
-
-- 🔭 Currently working on **software and machine learning projects**
-- 🌱 Learning **Machine Learning, Data Structures, and System Design**
-- 💡 Interested in **AI, backend systems, and automation**
-- 📚 Always building projects that solve real problems
-- ⚡ Fun fact: I can guess your nationality — try me
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🚀 Current Goals
-
-- Build **strong Machine Learning portfolio projects**
-- Contribute to **open source**
-- Improve **system design and backend development**
-- Create projects that are **actually useful**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabo5&theme=tokyonight&hide_border=true&show_icons=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aabo5&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabo5&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [github.com/aabo5](https://github.com/aabo5)
-
----
-
-⭐ *Always building, always learning.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
