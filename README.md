@@ -55,9 +55,11 @@ Currently seeking software engineering internship opportunities while continuous
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aabo5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aabo5&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aabo5&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=aabo5&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabo5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
